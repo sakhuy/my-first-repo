@@ -4,4 +4,4 @@ NPM     : 2206082676
 
 Kelas   : PBP E
 
-Hobi    : Olahraga
+Hobi    : Belajar
